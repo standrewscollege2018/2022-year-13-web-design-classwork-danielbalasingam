@@ -1,0 +1,43 @@
+/* algins the text to the center */
+.nav-item .dropdown-menu > li {
+    text-align: center;
+}
+
+/* Changes the dorpdown a link on hover */
+.nav-item > a:hover {
+  background-color: white;
+  color: black;
+}
+
+/* navbar css */
+.custom-nav {
+  background: #1f1f1f;
+  font-size: 18px;
+}
+
+/* custom navbar brand colours */
+.custom-nav .navbar-brand {
+  color: white;
+}
+
+/* changes the link colours */
+.custom-nav .nav-link {
+  color: white;
+}
+
+/* sets the text style for the dropdown a */
+.dropdown > a {
+  color: white;
+  text-decoration: none;
+}
+
+/* changes the dropdown button colour */
+.custom-nav-dropdown > button {
+  border-color: #FFFFFF;
+}
+
+/* body css */
+body {
+background-color: #D3D3D3;
+font-family: 'PT Serif', serif;
+}
